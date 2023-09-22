@@ -1,4 +1,3 @@
-cdn-thumb.fds.api.xiaomi.com
 bce.baidu.com
 b.bdstatic.com
 gss0.bdstatic.com
@@ -69,7 +68,6 @@ adm.10jqka.com.cn
 cps.kaola.com
 iteye.com
 dl.360safe.com
-resolver.msg.xiaomi.net
 api.sec.miui.com
 iface2.iqiyi.com
 apm3.music.163.com
@@ -107,7 +105,6 @@ gvt1.com
 apiwz.midukanshu.com
 api.jr.mi.com
 graph.facebook.com
-image.box.xiaomi.com
 niuza.com
 sourl.cn
 pp.ua
@@ -151,7 +148,6 @@ minorshort.weixin.qq.com
 pusher.com
 bluehost.com
 hosting24.com
-pdc.micloud.xiaomi.net
 valf.atm.cp31.ott.cibntv.net
 sf1-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com
@@ -193,11 +189,9 @@ retcode.taobao.com
 3975.com
 air.1688.com
 continuum.dds.microsoft.com
-sec.resource.xiaomi.net
 api.cortana.ai
 mazu.3g.qq.com
 umiwi.com
-xmpush.xiaomi.com
 doublecklick.net
 issuecdn.baidupcs.com
 duiba.com.cn
@@ -205,8 +199,6 @@ trib.al
 ccmp.eu
 alissl.ucdl.pp.uc.cn
 c3pool.com
-wtradv.market.xiaomi.com
-update.avlyun.sec.miui.com
 sugar.zhihu.com
 chtbl.com
 huoying666.com
