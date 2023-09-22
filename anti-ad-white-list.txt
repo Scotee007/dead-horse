@@ -68,7 +68,6 @@ adm.10jqka.com.cn
 cps.kaola.com
 iteye.com
 dl.360safe.com
-api.sec.miui.com
 iface2.iqiyi.com
 apm3.music.163.com
 mbd.baidu.com
@@ -103,7 +102,6 @@ sj.uukanshu.com
 e.shifen.com
 gvt1.com
 apiwz.midukanshu.com
-api.jr.mi.com
 graph.facebook.com
 niuza.com
 sourl.cn
@@ -294,8 +292,6 @@ xj-n-tax.gov.cn
 zazhipu.com
 ztgame.com
 yximgs.com
-cdn.cnbj1.fds.api.mi-img.com
-browser.mi-img.com
 pic.imgdb.cn
 ip-tracker.org
 is.snssdk.com
@@ -325,7 +321,6 @@ rumble.com
 37signals.com
 stackpathdns.com
 msg.douyu.com
-hot.browser.miui.com
 linksnappy.com
 szlong.weixin.qq.com
 metrics.icloud.com
@@ -340,14 +335,12 @@ jimdo.com
 gm.mmstat.com
 as.mgtv.com
 adobe-campaign.com
-ssl-cdn.static.browser.mi-img.com
 meitubeauty.meitudata.com
 my-material.zone1.meitudata.com
 profile.csdnimg.cn
 db-ip.com
 geotrust.com
 salon.com
-mini2015.qq.com
 alimama.com
 hqq.tv
 gift.douyucdn.cn
